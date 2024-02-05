@@ -1,0 +1,9 @@
+This state_refs app contains below things.
+It is an app for 
+Create Project 
+View project list
+Delete project
+Create task inside Project 
+View task inside project list
+Delete task
+
